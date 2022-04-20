@@ -22,6 +22,7 @@
 - [XX Network]()
 - [Casper]()
 - [Akash Network]()
+- [Uptick]()
 
 **Contacts:**
 - [GitHub](https://github.com/tt1000vv)
