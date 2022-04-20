@@ -2,7 +2,7 @@
 
 ![IMG_1348](https://user-images.githubusercontent.com/38581319/132548285-3d8d07a7-dfd5-4458-94ca-8a3c1de2bdba.PNG)
 
-## moonsoon validate 2 main-nets and 10 test-nets
+## moonsoon validate 3 mainnets and 12 test-nets
 
 **Mainnets:**  <br />
 
